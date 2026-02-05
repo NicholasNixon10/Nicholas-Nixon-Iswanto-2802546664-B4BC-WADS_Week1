@@ -7,3 +7,4 @@ Class: B4BC
 Article: https://blog.devgenius.io/git-branch-and-git-merge-best-practices-for-git-basics-876a035fc7a7
 
 edit 2
+edit 5
