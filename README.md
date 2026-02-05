@@ -9,3 +9,5 @@ Article: https://blog.devgenius.io/git-branch-and-git-merge-best-practices-for-g
 edit 2
 edit 3
 edit 4
+edit 5
+edit 6
